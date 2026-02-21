@@ -70,3 +70,33 @@ Works Best as an admin managing panel with adding new user and keeping track of 
    ├── users.component.css                                                                                                                                                                 
  app.component.ts
 
+
+
+
+
+//New User Listing
+
+<img width="1366" height="725" alt="Screenshot (513)" src="https://github.com/user-attachments/assets/0aedd6d3-ef99-4d56-b500-c032dadd513f" />
+
+
+
+//User list dashboard with pagination and Filter
+
+<img width="1366" height="689" alt="Screenshot (506)" src="https://github.com/user-attachments/assets/523e01fb-2fa1-4f5c-b20f-994ece5415c3" />
+
+
+
+//Adding New User
+
+<img width="1366" height="726" alt="Screenshot (508)" src="https://github.com/user-attachments/assets/cbf30e07-941e-4c5e-9d03-91ad1dc592f4" />
+
+
+
+//Cateory Filter
+
+<img width="1366" height="673" alt="Screenshot (503)" src="https://github.com/user-attachments/assets/e368bb1c-e326-43bb-8e98-2590d2683f0d" />
+
+
+
+
+
