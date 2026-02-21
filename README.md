@@ -9,20 +9,10 @@ This project is a simple User Dashboard application built with Angular and Boots
 *   [Features](#features)
 *   [Technologies Used](#technologies-used)
 *   [Prerequisites](#prerequisites)
-*   [Installation and Setup](#installation-and-setup)
+*   [Development Server](#development-server)
 *   [Usage](#usage)
  
- src/
-└── app/
-├── models/
-│ └── user.model.ts
-├── data/
-│ └── mock-users.ts
-├── users/
-│ ├── users.component.ts
-│ ├── users.component.html
-│ └── users.component.css
-└── app.component.ts
+
 
 ## Features
 *   User Dashboard List UserName,Email,Class,Section,Creation Date
@@ -40,6 +30,8 @@ This project is a simple User Dashboard application built with Angular and Boots
        - Data persists after page refresh (LocalStorage)
 *   Proper Pagination and Tabular Data Display
 *   Simple and responsive UI using Bootstrap.
+
+  
 
 ## Technologies Used
 *   [Angular CLI](https://cli.angular.io/)
@@ -66,5 +58,15 @@ Once the server is running, open your browser and navigate to `http://localhost:
 
 Works Best as an admin managing panel with adding new user and keeping track of all users present in an organization.
 
-By Manish Sharma 
-Angular Developer
+ src/                                                                                                            
+├── app/                                                                                                            
+├── models/                                                                                                                             
+   ├── user.model.ts                                                                                                                                                                       
+├── data/                                                                                                                                                                                 
+   ├── mock-users.ts                                                                                                                                                                  
+├── users/                                                                                                                                                                                 
+   ├── users.component.ts                                                                                                            
+   ├── users.component.html                                                                                                        
+   ├── users.component.css                                                                                                                                                                 
+ app.component.ts
+
